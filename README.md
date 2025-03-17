@@ -18,12 +18,12 @@
 
 the bx.bitnats [dune dashboard](https://dune.com/bitgnat/bx-bitnats) provides the following stats:  
 
-📙 rarity **Spectrum**  
-📙 available **Supply**  
-📙 **Collection** supply  
-📙 **Rarity**  
-📙 rate of **Expansion**  
-📙 collection **Growth Rate**
+📙 **Spectrum**: rarity classification for bitnats  
+📙 **Supply**: dynamic supply of each bitnat  
+📙 **Collection**: total supply of the bx.bitnats collection  
+📙 **Rarity**: bitnat rarity as a percent of collection total supply  
+📙 **Expansion**: percentage of blocks a bitnat generates  
+📙 **Growth Rate**: overall growth rate of the collection
 
 ## collection
 
