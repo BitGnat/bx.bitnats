@@ -23,13 +23,39 @@ the bx.bitnats [dune dashboard](https://dune.com/bitgnat/bx-bitnats) provides th
 📙 **Collection**: total supply of the bx.bitnats collection  
 📙 **Rarity**: bitnat rarity as a percent of collection total supply  
 📙 **Expansion**: percentage of blocks a bitnat generates  
-📙 **Growth Rate**: overall growth rate of the collection
+📙 **Growth Rate**: overall growth rate of the collection  
 
-## collection
+## Unique Non-Arbitrary Tokens (UNATs)  
+
+🟠 [bitnat-bx0](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i0)  
+
+🟠 [bitnat-bx00](https://ordinals.com/inscription/)  
+
+🟠 [bitnat-bx01](https://ordinals.com/inscription/)  
+
+🟠 [bitnat-bx1](https://ordinals.com/inscription/)  
+
+🟠 [bitnat-bx10](https://ordinals.com/inscription/)  
+
+🟠 [bitnat-bx11](https://ordinals.com/inscription/)  
+
+🟠 [bitnat-bx010](https://ordinals.com/inscription/)  
+
+🟠 [bitnat-bx011](https://ordinals.com/inscription/)  
+
+🟠 [bitnat-bx100](https://ordinals.com/inscription/)  
+
+🟠 [bitnat-bx101](https://ordinals.com/inscription/)  
+
+🟠 [bitnat-bx110](https://ordinals.com/inscription/)  
+
+🟠 [bitnat-bx111](https://ordinals.com/inscription/)  
+
+## collection image
 
 ![⦻](images/bx.svg)
 
-## Unique Non-Arbitrary Tokens (UNATs)
+## bitnat images
 
 bits hex pattern: `0`  
 DMT element: `bitnats.0.11.element`  
