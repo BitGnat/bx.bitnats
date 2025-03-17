@@ -16,6 +16,10 @@
 
 ## collection
 
+## stats
+
+[dune dashboard](https://dune.com/bitgnat/bx-bitnats)
+
 ![⦻](images/bx.svg)
 
 ### UNATs
