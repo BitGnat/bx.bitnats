@@ -16,7 +16,7 @@
 
 ## stats
 
-the bx.bitnats [dune dashboard](https://dune.com/bitgnat/bx-bitnats) provides the following stats:
+the bx.bitnats [dune dashboard](https://dune.com/bitgnat/bx-bitnats) provides the following stats:  
 📙 rarity **Spectrum**  
 📙 available **Supply**  
 📙 **Collection** supply  
