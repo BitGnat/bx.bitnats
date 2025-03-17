@@ -8,11 +8,11 @@
 
 ## basics
 
-⦻ bx.bitnats are [ordinal inscriptions](https://docs.ordinals.com/) on Bitcoin  
-⦻ bx.bitnats are on-chain claims to Bitcoin block data using the [tap protocol](https://github.com/Trac-Systems/tap-protocol-specs)  
-⦻ bx.bitnats blocks become available to claim each time a Bitcoin block is mined  
-⦻ bx.bitnats are derived from Digital Matter Theory [DMT](https://digital-matter-theory.gitbook.io/digital-matter-theory)  
-⦻ bx.bitnats are ...
+🟠 bx.bitnats are [ordinal inscriptions](https://docs.ordinals.com/) on Bitcoin  
+🟠 bx.bitnats are on-chain claims to Bitcoin block data using the [tap protocol](https://github.com/Trac-Systems/tap-protocol-specs)  
+🟠 bx.bitnats are derived from Digital Matter Theory [DMT](https://digital-matter-theory.gitbook.io/digital-matter-theory)  
+🟠 bx.bitnats are generated each time a Bitcoin block is mined 
+🟠 bx.bitnats are available to mint on [mscribe.io](https://mscribe.io/nats?t=latest)  
 
 ## collection
 
