@@ -14,11 +14,17 @@
 🟠 bx.bitnats are generated each time a Bitcoin block is mined 
 🟠 bx.bitnats are available to mint on [mscribe.io](https://mscribe.io/nats?t=latest)  
 
-## collection
-
 ## stats
 
-[dune dashboard](https://dune.com/bitgnat/bx-bitnats)
+the bx.bitnats [dune dashboard](https://dune.com/bitgnat/bx-bitnats) provides the following stats:
+📙 rarity **Spectrum**  
+📙 available **Supply**  
+📙 **Collection** supply  
+📙 **Rarity**  
+📙 rate of **Expansion**  
+📙 collection **Growth Rate**
+
+## collection
 
 ![⦻](images/bx.svg)
 
