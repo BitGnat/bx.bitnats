@@ -29,27 +29,27 @@ the bx.bitnats [dune dashboard](https://dune.com/bitgnat/bx-bitnats) provides th
 
 🟠 [bitnat-bx0](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i0)  
 
-🟠 [bitnat-bx00](https://ordinals.com/inscription/)  
+🟠 [bitnat-bx00](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i1)  
 
-🟠 [bitnat-bx01](https://ordinals.com/inscription/)  
+🟠 [bitnat-bx01](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i3)  
 
-🟠 [bitnat-bx1](https://ordinals.com/inscription/)  
+🟠 [bitnat-bx1](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i2)  
 
-🟠 [bitnat-bx10](https://ordinals.com/inscription/)  
+🟠 [bitnat-bx10](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i4)  
 
-🟠 [bitnat-bx11](https://ordinals.com/inscription/)  
+🟠 [bitnat-bx11](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i6)  
 
-🟠 [bitnat-bx010](https://ordinals.com/inscription/)  
+🟠 [bitnat-bx010](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i5)  
 
-🟠 [bitnat-bx011](https://ordinals.com/inscription/)  
+🟠 [bitnat-bx011](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i7)  
 
-🟠 [bitnat-bx100](https://ordinals.com/inscription/)  
+🟠 [bitnat-bx100](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i8)  
 
-🟠 [bitnat-bx101](https://ordinals.com/inscription/)  
+🟠 [bitnat-bx101](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i9)  
 
-🟠 [bitnat-bx110](https://ordinals.com/inscription/)  
+🟠 [bitnat-bx110](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i10)  
 
-🟠 [bitnat-bx111](https://ordinals.com/inscription/)  
+🟠 [bitnat-bx111](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i11)  
 
 ## collection image
 
