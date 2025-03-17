@@ -29,7 +29,7 @@ the bx.bitnats [dune dashboard](https://dune.com/bitgnat/bx-bitnats) provides th
 
 ![⦻](images/bx.svg)
 
-### UNATs
+## Unique Non-Arbitrary Tokens (UNATs)
 
 bits hex pattern: `0`  
 DMT element: `bitnats.0.11.element`  
