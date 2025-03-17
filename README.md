@@ -24,9 +24,9 @@
 
 ### collection
 
-![⦻](images/0.svg)
+![⦻](images/bx.svg)
 
-### UNAT
+### UNATs
 
 bits hex pattern : `0`  
-![0⦻8](images/08.svg)
+![0⦻8](images/bx0.svg)
