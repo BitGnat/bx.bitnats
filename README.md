@@ -63,7 +63,7 @@ DMT element: `bitnats.0.11.element`
 
 bits hex pattern : `00`  
 DMT element: `bitnat00.00.11.element`  
-![0⦻8](images/bx0.svg)
+![0⦻8](images/bx00.svg)
 
 bits hex pattern : `01`  
 DMT element: `matter.01.11.element`  
