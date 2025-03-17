@@ -11,7 +11,7 @@
 ⦻ bx.bitnats are ordinal inscriptions on Bitcoin  
 ⦻ bx.bitnats inscriptions are on-chain claims to Bitcoin block data  
 ⦻ bx.bitnats blocks become available to claim each time a Bitcoin block is mined  
-⦻ bx.bitnats traits are derived from ...  
+⦻ bx.bitnats are derived from Digital Matter Theory [DMT](https://digital-matter-theory.gitbook.io/digital-matter-theory)  
 ⦻ bx.bitnats are ...
 
 ## collection
