@@ -28,31 +28,59 @@ the bx.bitnats [dune dashboard](https://dune.com/bitgnat/bx-bitnats) provides th
 
 ## Unique Non-Arbitrary Tokens (UNATs)
 
-on-chain [ordinal](https://ordinals.com) inscriptions:
+on-chain [ordinal inscriptions](https://ordinals.com):
 
-🟠 [bitnat-bx0](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i0)  
+⌽ [bitnat-bx0](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i0)  
 
-🟠 [bitnat-bx00](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i1)  
+⌽ [bitnat-bx00](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i1)  
 
-🟠 [bitnat-bx01](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i3)  
+⌽ [bitnat-bx01](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i3)  
 
-🟠 [bitnat-bx1](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i2)  
+⌽ [bitnat-bx1](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i2)  
 
-🟠 [bitnat-bx10](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i4)  
+⌽ [bitnat-bx10](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i4)  
 
-🟠 [bitnat-bx11](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i6)  
+⌽ [bitnat-bx11](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i6)  
 
-🟠 [bitnat-bx010](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i5)  
+⌽ [bitnat-bx010](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i5)  
 
-🟠 [bitnat-bx011](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i7)  
+⌽ [bitnat-bx011](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i7)  
 
-🟠 [bitnat-bx100](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i8)  
+⌽ [bitnat-bx100](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i8)  
 
-🟠 [bitnat-bx101](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i9)  
+⌽ [bitnat-bx101](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i9)  
 
-🟠 [bitnat-bx110](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i10)  
+⌽ [bitnat-bx110](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i10)  
 
-🟠 [bitnat-bx111](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i11)  
+⌽ [bitnat-bx111](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i11)  
+
+## minting
+
+UNATs minting on [mscribe.io](https://mscribe.io/nats?t=latest):
+
+🟠 [bitnat-bx0](https://mscribe.io/nats/dmt-bitnat-bx0-)  
+
+🟠 [bitnat-bx00](https://mscribe.io/nats/dmt-bitnat-bx00)  
+
+🟠 [bitnat-bx01](https://mscribe.io/nats/dmt-bitnat-bx01)  
+
+🟠 [bitnat-bx1](https://mscribe.io/nats/dmt-bitnat-bx1)  
+
+🟠 [bitnat-bx10](https://mscribe.io/nats/dmt-bitnat-bx10)  
+
+🟠 [bitnat-bx11](https://mscribe.io/nats/dmt-bitnat-bx11)  
+
+🟠 [bitnat-bx010](https://mscribe.io/nats/dmt-bitnat-bx010)  
+
+🟠 [bitnat-bx011](https://mscribe.io/nats/dmt-bitnat-bx011)  
+
+🟠 [bitnat-bx100](https://mscribe.io/nats/dmt-bitnat-bx100)  
+
+🟠 [bitnat-bx101](https://mscribe.io/nats/dmt-bitnat-bx101)  
+
+🟠 [bitnat-bx110](https://mscribe.io/nats/dmt-bitnat-b110)  
+
+🟠 [bitnat-bx111](https://mscribe.io/nats/dmt-bitnat-bx111)  
 
 ## collection image
 
