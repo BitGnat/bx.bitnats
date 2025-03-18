@@ -4,7 +4,7 @@
 
 # bx.bitnats
 
-bitnats' bits hex collection
+**𝕓** bitnats' bits hex collection **𝕓**
 
 ## basics
 
