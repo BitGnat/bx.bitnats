@@ -54,7 +54,7 @@ on-chain [ordinal inscriptions](https://ordinals.com):
 
 ⌽ [bitnat-bx111](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i11)  
 
-## minting
+## mints
 
 UNATs minting on [mscribe.io](https://mscribe.io/nats?t=latest):
 
