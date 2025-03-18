@@ -8,7 +8,7 @@
 
 ## basics
 
-👉 bx.bitnats are [ordinal inscriptions](https://docs.ordinals.com/) on Bitcoin  
+👉 bx.bitnats are [ordinal inscriptions](https://docs.ordinals.com/) on ₿itcoin  
 👉 bx.bitnats are on-chain claims to Bitcoin block data using the [tap protocol](https://github.com/Trac-Systems/tap-protocol-specs)  
 👉 bx.bitnats are indexed by the [trac network](https://trac.network)  
 👉 bx.bitnats are derived from Digital Matter Theory [DMT](https://digital-matter-theory.gitbook.io/digital-matter-theory)  
