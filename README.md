@@ -28,7 +28,7 @@ the bx.bitnats [dune dashboard](https://dune.com/bitgnat/bx-bitnats) provides th
 
 ## Unique Non-Arbitrary Tokens (UNATs)
 
-on-chain ordinal inscriptions:
+on-chain [ordinal](https://ordinals.com) inscriptions:
 
 🟠 [bitnat-bx0](https://ordinals.com/inscription/8962d02cd3e827e68b1438d004e15bdc57720cc2cd8a2f2414bbfc5bdbbf9c23i0)  
 
