@@ -17,7 +17,7 @@
 
 ## stats
 
-the bx.bitnats [dune dashboard](https://dune.com/bitgnat/bx-bitnats) provides the following stats:  
+the bx.bitnats [dune dashboard](https://dune.com/bitgnat/bx-bitnats) is updated daily 11:30 UTC and provides the following stats:  
 
 📙 **Spectrum**: rarity classification for bitnats  
 📙 **Supply**: dynamic supply of each bitnat  
