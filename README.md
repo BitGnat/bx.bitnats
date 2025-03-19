@@ -20,7 +20,7 @@
 the bx.bitnats [dune dashboard](https://dune.com/bitgnat/bx-bitnats) is updated daily 11:30 UTC and provides the following stats:  
 
 📙 **Spectrum**: rarity classification for bitnats:  
-&nbsp;[common, abundant, popular, infrequent, scarce, limited, rare]
+&nbsp;&nbsp;&nbsp;[common, abundant, popular, infrequent, scarce, limited, rare]  
 📙 **Supply**: dynamic supply of each bitnat  
 📙 **Collection**: total supply of the bx.bitnats collection  
 📙 **Rarity**: bitnat rarity as a percent of collection total supply  
