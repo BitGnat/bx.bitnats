@@ -88,50 +88,62 @@ UNATs minting on [mscribe.io](https://mscribe.io/nats?t=latest):
 
 ## bitnat images
 
+dmt-bitnat-bx0-    
 bits hex pattern: `0`  
 DMT element: `bitnats.0.11.element`  
 ![0⦻8](images/svg/bx0.svg)
 
+dmt-bitnat-bx00  
 bits hex pattern : `00`  
 DMT element: `bitnat00.00.11.element`  
 ![0⦻8](images/svg/bx00.svg)
 
+dmt-bitnat-bx01  
 bits hex pattern : `01`  
 DMT element: `matter.01.11.element`  
 ![0⦻8](images/svg/bx01.svg)
 
+dmt-bitnat-bx1  
 bits hex pattern : `1`  
 DMT element: `bitnat1.1.11.element`  
 ![0⦻8](images/svg/bx1.svg)
 
+dmt-bitnat-bx10  
 bits hex pattern : `10`  
 DMT element: `bitnat10.10.11.element`  
 ![0⦻8](images/svg/bx10.svg)
 
+dmt-bitnat-bx11  
 bits hex pattern : `11`  
 DMT element: `Eleven.11.11.element`  
 ![0⦻8](images/svg/bx11.svg)
 
+dmt-bitnat-bx010  
 bits hex pattern : `010`  
 DMT element: `ᘛ⁐̤ᕐᐷ.010.11.element`  
 ![0⦻8](images/svg/bx010.svg)
 
+dmt-bitnat-bx011  
 bits hex pattern : `011`  
 DMT element: `bitnat011.011.11.element`  
 ![0⦻8](images/svg/bx011.svg)
 
+dmt-bitnat-bx100  
 bits hex pattern : `100`  
 DMT element: `100.100.11.element`  
 ![0⦻8](images/svg/bx100.svg)
 
+dmt-bitnat-bx101  
 bits hex pattern : `101`  
 DMT element: `lol.101.11.element`  
 ![0⦻8](images/svg/bx101.svg)
 
+dmt-bitnat-bx110  
 bits hex pattern : `110`  
 DMT element: `bitnat110.110.11.element`  
 ![0⦻8](images/svg/bx110.svg)
 
+dmt-bitnat-bx111  
 bits hex pattern : `111`  
 DMT element: `genesis.111.11.element`  
 ![0⦻8](images/svg/bx111.svg)
