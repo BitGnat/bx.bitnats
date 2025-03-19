@@ -26,6 +26,8 @@ the bx.bitnats [dune dashboard](https://dune.com/bitgnat/bx-bitnats) is updated 
 📙 **Expansion**: percentage of blocks that generate a bx.bitnat  
 📙 **Growth Rate**: overall rate of expansion for the bx.bitnats collection    
 
+![0⦻8](images/gif/expansion.gif)  
+
 ## Unique Non-Arbitrary Tokens (UNATs)
 
 on-chain [ordinal inscriptions](https://ordinals.com):
