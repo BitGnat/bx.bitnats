@@ -84,7 +84,7 @@ UNATs minting on [mscribe.io](https://mscribe.io/nats?t=latest):
 
 ## collection image
 
-![⦻](images/bx.svg)
+![⦻](images/svg/bx.svg)
 
 ## bitnat images
 
