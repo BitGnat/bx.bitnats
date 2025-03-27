@@ -4,7 +4,7 @@
 
 # bx.bitnats
 
-**⌽** THE BITNATS' BITS HEX COLLECTION WAS AN ONCHAIN AND LIVE TEST BUILD FOR THE DMT-BITCOIN COLLECTIONS **⌽**
+**⌽** ⚠️ the bitnats' bits hex collection was an onchain and live test build for the dmt-bitcoin collections ⚠️ **⌽**
 
 [the dmt-bitcoin collection](https://github.com/BitGnat/dmt-bitcoin)
 
