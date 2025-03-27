@@ -1,10 +1,13 @@
 # bitnats
 
-**🟠** the rarest digital artifacts **🟠**
+**🚫** DEPRECATED **🚫**
 
 # bx.bitnats
 
-**⌽** bitnats' bits hex collection **⌽**
+**⌽** THE BITNATS' BITS HEX COLLECTION WAS AN ONCHAIN AND LIVE TEST BUILD FOR THE DMT-BITCOIN COLLECTIONS **⌽**
+
+![the dmt-bitcoin collection](https://github.com/BitGnat/dmt-bitcoin)
+
 
 ## basics
 
